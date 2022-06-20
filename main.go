@@ -1,6 +1,10 @@
 package main
 
-import "net/http"
+import (
+	"net/http"
+
+	"github.com/ssereduk/Server_only-Go/blob/main/internal/router"
+)
 
 func main() {
 	r := router.New()
