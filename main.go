@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/ssereduk/Server_only-Go/blob/main/internal/router"
+	"github.com/ssereduk/Server_only-Go/tree/main/internal/router"
 )
 
 func main() {
